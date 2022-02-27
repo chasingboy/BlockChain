@@ -1,11 +1,17 @@
 ## 第一章 环境准备	21
+
 1.1  npm 安装 Remix IDE	21
+
 1.2  docker 拉取 Remix IDE	22
+
 1.3 docker 拉取 geth	23
+
 1.4 本章总结	23
 
 ## 第二章 Remix IDE 介绍和使用	24
+
 2.1 学习 Remix 环境使用一	24
+
 2.1.1 部署学习	26
 2.2 学习 Remix 环境使用二	28
 2.2.1 部署学习	28
