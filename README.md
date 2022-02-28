@@ -1,10 +1,11 @@
 # 智能合约安全入门
 
-关键词：smart contract, block chain, security, 智能合约, 区块链
+关键词：smart contract, block chain, security, 智能合约, 区块链, 以太坊, 智能合约安全, 区块链安全
 
 作者：余泽平
 
-![book-1](https://user-images.githubusercontent.com/39737245/155871583-db735bab-ace6-4464-8cee-556ffd63f3b5.png)
+![image](https://user-images.githubusercontent.com/39737245/155905820-ced48837-f354-48a4-b176-be441806e853.png)
+
 
 
 
