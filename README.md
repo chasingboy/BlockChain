@@ -725,7 +725,11 @@
 
 
 ## 获取方式
-等待3月1日公布
+
+1、方式一：https://mianbaoduo.com/o/bread/YpiVkppp
+
+2、方式二：https://www.jdmm.top/file/2679448/
+
 
 ## 特别服务
 额外套餐：
