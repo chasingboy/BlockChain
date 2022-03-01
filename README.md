@@ -4,8 +4,12 @@
 
 作者：余泽平
 
-![image](https://user-images.githubusercontent.com/39737245/155905820-ced48837-f354-48a4-b176-be441806e853.png)
+学习这本书，您需要懂一点其他方面的知识： linux 命令，javascript，python， docker。本书内容包括：学习环境安装，Remix IDE 使用，Metamask，Geth 本地私链搭建，web3，solidity 基础，常见类型的漏洞。
 
+还有加上了 Ethernaut 智能合约通关游戏，在这个游戏中，可以通过游戏来学习相关的漏洞知识点。所以，在常见类型漏洞中没有的一些漏洞知识点，在 Ethernaut 游戏中可以找到。也正是因此，您会发现，在常见类型漏洞的章节中，对比网络上的一些文章会少一些类型漏洞，不过不必嫌弃，它们被记录在了 Ethernaut 的章节中。
+
+
+![image](https://user-images.githubusercontent.com/39737245/155905820-ced48837-f354-48a4-b176-be441806e853.png)
 
 
 
