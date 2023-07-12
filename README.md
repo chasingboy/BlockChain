@@ -729,22 +729,7 @@
 
 
 ## 获取方式
-
-1、方式一：https://mianbaoduo.com/o/bread/YpiVkppp
-
-2、方式二：https://www.jdmm.top/file/2679448/
-
-
-## 特别服务
-额外套餐：
-
-1、在学习本书的过程中有任何问题可以咨询，500元（永久有效）
-
-2、远程使用腾讯会议带您学习完整本书，3000 元
-
-微信：13058371691
-
-注：如果不能下载，麻烦留下您的邮箱，我们将通过邮箱发给您
+暂无
 
 ## 个人博客
 语雀：https://www.yuque.com/zhuifengshaonian-cwb42/xboy
